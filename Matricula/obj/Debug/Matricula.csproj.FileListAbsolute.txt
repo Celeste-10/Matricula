@@ -1,0 +1,16 @@
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\bin\Debug\Matricula.exe.config
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\bin\Debug\Matricula.exe
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\bin\Debug\Matricula.pdb
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\bin\Debug\EntityFramework.dll
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\bin\Debug\EntityFramework.xml
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\obj\Debug\Matricula.csproj.AssemblyReference.cache
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\obj\Debug\Matricula.Form1.resources
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\obj\Debug\Matricula.Properties.Resources.resources
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\obj\Debug\Matricula.csproj.GenerateResource.cache
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\obj\Debug\Matricula.csproj.CoreCompileInputs.cache
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\obj\Debug\Matricula.csproj.Up2Date
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\obj\Debug\Matricula.exe
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\obj\Debug\Matricula.pdb
+C:\Users\Lizbeth\source\repos\Matricula\Matricula\obj\Debug\Matricula.exe.config
